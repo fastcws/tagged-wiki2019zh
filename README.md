@@ -1,6 +1,7 @@
-# 进行了分词标注的2019中文维基语料库
 
-<font size="9">[下载语料库](/releases/latest)</font>
+## [下载语料库](https://github.com/fastcws/tagged-wiki2019zh/releases/download/v1.0.0/cn-wiki-wseg.7z)
+
+# 进行了分词标注的2019中文维基语料库
 
 基于经过清洗和切分的2019年中文wiki语料库[wiki2019zh.zip](https://github.com/brightmart/nlp_chinese_corpus#1%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91json%E7%89%88wiki2019zh)，使用[hanlp](https://github.com/hankcs/HanLP)中的[COARSE_ELECTRA_SMALL_ZH](https://hanlp.hankcs.com/docs/api/hanlp/pretrained/tok.html)模型进行了分词。
 
